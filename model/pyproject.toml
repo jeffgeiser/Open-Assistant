@@ -27,7 +27,7 @@ dependencies = [
     "sentencepiece==0.1.97",
     "scikit-learn==1.2.0",
     "tokenizers==0.13.2",
-    "torch==1.13.1",
+    "torch==2.13.0",
     "tqdm==4.65.0",
     "transformers==4.26.1",
     "wandb==0.14.0",
