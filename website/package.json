@@ -83,7 +83,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@chakra-ui/storybook-addon": "^4.0.16",
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^10.5.0",
     "@storybook/addon-actions": "^6.5.15",
     "@storybook/addon-essentials": "^6.5.16",
     "@storybook/addon-interactions": "^6.5.16",
